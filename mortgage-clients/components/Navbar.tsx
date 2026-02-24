@@ -24,7 +24,7 @@ export const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 md:px-12 flex items-center justify-between">
         <a href="#" className="flex flex-col">
           <span className={`font-serif text-2xl font-bold tracking-tight ${isScrolled ? 'text-secondary' : 'text-secondary md:text-white'}`}>
-            Desiree Contessa
+            Troy Weatherly
           </span>
           <span className={`text-[10px] tracking-widest uppercase ${isScrolled ? 'text-gray-500' : 'text-gray-400 md:text-gray-200'}`}>
             Patriot Home Mortgage
