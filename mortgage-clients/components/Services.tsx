@@ -8,7 +8,7 @@ export const Services: React.FC = () => {
       <div className="text-center max-w-3xl mx-auto mb-20">
         <span className="text-primary font-bold tracking-widest text-xs uppercase mb-4 block">Our Expertise</span>
         <h2 className="font-serif text-4xl text-secondary mb-6">Comprehensive Mortgage Solutions</h2>
-        <p className="text-gray-600">Patriot Home Mortgage is the only locally owned Mortgage Bank in Southern Utah, offering products and resources tailored to our community.</p>
+        <p className="text-gray-600">Patriot Home Mortgage is the only locally owned Mortgage Bank in Las Vegas, offering products and resources tailored to our community.</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
