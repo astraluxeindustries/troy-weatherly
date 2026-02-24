@@ -64,7 +64,7 @@ export const SERVICES: ServiceItem[] = [
   },
   {
     title: "Investment Property",
-    description: "Strategic financing options for real estate investors looking to expand their portfolio in Southern Utah."
+    description: "Strategic financing options for real estate investors looking to expand their portfolio in Las Vegas."
   },
   {
     title: "Construction Loans",
